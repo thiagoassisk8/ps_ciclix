@@ -10,7 +10,7 @@
 
 
 <p align="center">
-	<img src="" width="300">
+	<img src="https://github.com/thiagoassisk8/ps_ciclix/blob/master/ps_ciclix/assets/img_telaCiclix.png" width="300">
 </p>
 
 
@@ -24,7 +24,7 @@
 <img
 		width="210"
 		alt="Capture 1"
-		src="/home/thiago/AndroidStudioProjects/ps_ciclix/assets/img_telaCiclix.png">
+		src="https://github.com/thiagoassisk8/ps_ciclix/blob/master/ps_ciclix/assets/img_telaCiclix.png">
 
 
 
